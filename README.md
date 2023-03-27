@@ -12,7 +12,7 @@
 
 ![4](https://user-images.githubusercontent.com/107339963/227852235-b7c33ddb-5981-4f97-a252-43737ce0cdbb.png)
 
-Others aplication:
+Other:
 
 . Generate real-life data while maintaining user privacy: Data scientists can use data generation techniques, such as data synthesis, to create test data sets that resemble real-life data, while protects the privacy of users.
 
